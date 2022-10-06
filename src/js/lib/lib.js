@@ -3,5 +3,7 @@ import './modules/display';
 import './modules/classes';
 import './modules/actions';
 import './modules/attribute';
+import './modules/handlers';
+
 
 export default $;
