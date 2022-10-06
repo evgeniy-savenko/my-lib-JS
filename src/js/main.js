@@ -10,5 +10,4 @@ $('div').click(function() {
 });
 
 // console.log($('button').html('Hello'));
-
-console.log($('.find').siblings());
+$('button').fadeOut(3000);
